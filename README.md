@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @B4night
+- 👋 Hi, I’m B4night
 - 👀 Welcome to my github space
-- 🌱 I'm gonna do something specail....
+- 🌱 I'm gonna do something specail...
 - 📫 Seeya
 
 <!---
